@@ -13,23 +13,27 @@ Your sponsorship of the conference can also provide immediate, concrete benefits
 
 ## Hack.lu Sponsoring Packages
 
-- Ebony Sponsor is 25000 Euro which includes a complete sponsoring package including 10 free entrances to the conference, stand/booth in the hallway and roll-up in the main room.
-- Falun Sponsor is 7500 Euro or more. This incorporates big logos on printed matters and the [website](https://hack.lu), 5 free entrances to the conference, stand/booth in the hallway.
-- Cardinal Sponsor is 5000 Euro. Medium logo on printed matters and the website. 3 free entrances are included and small stand/booth in the hallway.
-- Scarlet Sponsor is 2500 Euro. Medium logo on the website. 1 free entrance.
+- Ebony Sponsor is 25000 Euro which includes a complete sponsoring package including 11 free entrances to the conference, stand/booth in the hallway and roll-up in the main room, includes Cybersecurity Week Gala and Awards Nights sponsoring package
+- Burgundy Sponsor is 15000 Euro which includes a complete sponsoring package including 9 free entrances to the conference, stand/booth in the hallway and roll-up in the main room.
+- Amaranth Sponsor is 10000 Euro which includes big logos on printed matters and the [website](https://hack.lu), 7 free entrances to the conference, stand/booth in the hallway.
+- Falun Sponsor is 7500 Euro. This incorporates big logos on printed matters and the [website](https://hack.lu), 5 free entrances to the conference, stand/booth in the hallway.
+- Cardinal Sponsor is 5000 Euro. Medium logo on printed matters and the [website](https://hack.lu). 3 free entrances are included and small stand/booth in the hallway.
+- Scarlet Sponsor is 2500 Euro. Medium logo on the [website](https://hack.lu). 1 free entrance.
 - Social Event Sponsor is 10000 Euro. The event will be in the evening of the second day. It includes the same perks as the Falun package, but with specific visibility during the well-visited social event.
 
 All sponsoring prices mentioned exclude VAT. VAT may apply depending on your country.
 
 ### Additional Sponsoring Packages for the Cybersecurity Week Gala and Awards Night
 
+#### Cybersecurity Week Gala and Awards Nights - in addition to a hack.lu sponsoring package
+
+- Package content: chosen hack.lu sponsor package + CSWL Gala & Awards Night package. The sponsoring package is 2500 Euro in addition to the hack.lu sponsoring package.
+
+
 #### Cybersecurity Week Gala and Awards Nights - Only
 
 - Package content: logos on printed matters during the CSWL Gala & Awards Night (Thursday 23 OCT 2025), digital visibility accross all CSWL/CYBERSECURITY Luxembourg channels (cswl.lu, cybersecurity.lu, CyberAware Newsletter, social media), 6 free entrances to the CSWL Gala & Awards Night (23 October 2025). The sponsoring package is 5000 Euro.
 
-#### Cybersecurity Week Gala and Awards Nights - in addition to a hack.lu sponsoring package
-
-- Package content: chosen hack.lu sponsor package + CSWL Gala & Awards Night package. The sponsoring package is 2500 Euro in addition to the hack.lu sponsoring package.
 
 # Contact
 
