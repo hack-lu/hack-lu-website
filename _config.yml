@@ -20,7 +20,7 @@ title                    : "hack.lu 2025"
 title_separator          : "-"
 name                     : "hack.lu"
 description              : "Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 19th edition (21st -> 24th October) of hack.lu in Luxembourg."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://2025.hack.lu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -207,6 +207,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-target-blank
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -215,6 +216,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-target-blank
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
