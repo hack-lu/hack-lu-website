@@ -5,7 +5,7 @@ classes:
   - dark-theme
 title:  Capture The Flag
 excerpt: "Capture The Flag by FluxFingers - Hack.lu 2025"
-modified: 2024-12-01T10:17:47.723764+02:00
+modified: 2025-07-16T10:17:47.723764+02:00
 header:
   overlay_image: /images/flux.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -25,8 +25,11 @@ For updates concerning the CTF follow us at [@fluxfingers](https://twitter.com/f
 
 # When
 
-To be announced
+- Fri, 17 Oct 2025 starting at 18:00 UTC (for 48h).
 
 The Capture The Flag (CTF) competition is held prior to the conference, enabling participants to fully enjoy both the conference and its talks.
 
+# During the hack.lu 2025 event
+
+Several on‑site CTF events and other challenges will be held during the conference and will be open to all participants.
 
