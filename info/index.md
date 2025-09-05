@@ -24,7 +24,11 @@ modified: 2024-12-01T19:44:38.564948-04:00
 
 The conference will be held as every year in Luxembourg, a small country between France, Belgium and Germany. The conference venue is the Parc Hotel in Luxembourg-Dommeldange, like in the previous years.
 
-We've negotiated a special rate with the hotel the conference takes place. You can benefit from the special rate if you reserve your room through [Parc Hotel's registration form](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) and mentioning the promotional code 'HACKLU-2025'. Please make sure to **register your hotel room before September 10th, 2025** in order to be able to benefit from the proposal or to ensure that you will have a room. The contingent of reserverd rooms will be released afterwards by the hotel for general use.
+Alvisse Parc Hotel is sold out!
+~~We've negotiated a special rate with the hotel the conference takes place. You can benefit from the special rate if you reserve your room through [Parc Hotel's registration form](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) and mentioning the promotional code 'HACKLU-2025'. Please make sure to **register your hotel room before September 10th, 2025** in order to be able to benefit from the proposal or to ensure that you will have a room. The contingent of reserverd rooms will be released afterwards by the hotel for general use.~~
+
+We've negotiated a special rate with a hotel nearby, the DoubleTree by Hilton, 12 Rue Jean Engling, 1466 Dommeldange Luxembourg.
+Here is a link to a few more rooms: https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=LXMHIDI&arrivalDate=2025-10-21&departureDate=2025-10-24&groupCode=GHAC25&room1NumAdults=1
 
 By clicking on the [reservation link](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) you will arrive directly on the booking page.
 The guests have please to fill in the arrival and departure date and the special discount code. And click on « Show Availability », without the date and code, your special rates will not be visible!
