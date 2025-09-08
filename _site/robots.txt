@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://2025.hack.lu/sitemap.xml
