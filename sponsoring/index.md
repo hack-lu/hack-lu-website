@@ -44,6 +44,8 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 # Sponsors
 
 ## Sponsored by
+
+<a href="https://epsilon-sec.com/"><img src="/images/logos/epsilon_full_320_132.png"></a> <br/> <br/>
       
 ## Social Event Sponsor
 
