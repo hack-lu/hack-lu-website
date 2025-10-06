@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Call for Failure (CfF 0x0) - Over Fail the untold truth behind the magic of cybersecurity
+title: Call for Failure (CfF 0x1) - Over Fail the untold truth behind the magic of cybersecurity
 excerpt: "10-minute talks during hack.lu to present (the/your) biggest failure in cybersecurity you’ve ever experienced and what have you learned from it"
 modified: 2025-10-05T19:44:38.564948-04:00
 header:
@@ -8,35 +8,50 @@ header:
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 ---
 
-Call for Failure (CfF 0x0)
---------------------------
+# Call for Failure (CfF 0x0)
 
-Over Fail: the untold truth behind the magic of cybersecurity
+## Over Fail: The Untold Truth Behind the Magic of Cybersecurity
 
-10-minute talks during hack.lu to present (the/your) biggest failure in cybersecurity you’ve ever experienced and what have you learned from it.
+10-minute talks during hack.lu to present **your biggest failure in cybersecurity** — and, most importantly, what you learned from it.
 
-It’s Samion’s first week in the digital forensics team of the company he has been working at during the last two years since he graduated.  Before joining the super hounds, a pseudonym given to his teammates after helping the organisation uncover a year-long operation by a well-known, sophisticated threat actor, he was a mere SOC analyst. After a few months weeding through useless alerts, responding to run-of-the-mill scam reports, and occasionally coming by something that looked worth investigating only to pass it to the super hounds, as dictated by the playbook he had to strictly follow like a worker in the assembly line of the Ford T model in the past century, he started experiencing the dreaded analyst fatigue.
+---
 
-Samion is a smart, curious and respectful human being that did not need a code of conduct to behave. He felt his mission, as boring as it may seem, was important so the super hounds, the legendary forensicators of the organisation, can concentrate on saving the business from really mean cyberattacks. However, his yin overgrown his yang and he decided it was time to act before his misery needed the company of a huge, toxic dose of cynicism. So he asked for a training and after a positive answer, went to it, studied at night for long hours and made some really nice experiments in his home lab. He passed a forensics certification with flying colours and even had a lethal forensicator coin alongside the other trainees he worked with to solve the difficult challenges given by their instructor.
+It’s Samion’s first week in the digital forensics team of the company where he has been working for the past two years since graduating. Before joining the “Super Hounds” — a nickname earned by his teammates after helping the organisation uncover a year-long operation led by a sophisticated threat actor — he was a mere SOC analyst. After months of weeding through useless alerts, responding to run-of-the-mill scam reports, and occasionally stumbling upon something interesting only to escalate it to the Super Hounds (as dictated by the rigid playbook he had to follow like a factory worker on Ford’s Model T assembly line), he began to experience the dreaded analyst fatigue.
 
-When he went back to work, he asked to join the super hounds. Given his loyalty, dedication and overall performance, his wish was granted and here he is, with the first disk copy he needs to analyse to make progress in a case where an employee in a subsidiary on the other side of the real world was apparently spear-phished and an unknown malware installed, spotted thanks to some strange network connections.
+Samion is a smart, curious, and respectful human being who doesn’t need a code of conduct to behave. He believed that his mission, as monotonous as it might have seemed, was important — allowing the Super Hounds, the organisation’s legendary forensicators, to focus on protecting the business from serious cyberattacks. However, his yin eventually overpowered his yang, and he decided to act before his frustration turned into a toxic dose of cynicism.  
 
-He opened the freshly delivered parcel containing the drive and was puzzled to find out it was in its original package, shrink-wrapped. Being the new kid on the block, he did not dare ask his coworkers. Maybe the local security officer at the subsidiary, who was given very clear instructions on how to clone the disk of the compromised endpoint, went out of his way or was simply a perfectionist.
+He asked for training, received approval, and threw himself into it — studying late into the night and running experiments in his home lab. He passed a forensics certification with flying colours and proudly earned a *Lethal Forensicator Coin* alongside his fellow trainees after solving a series of difficult challenges.
 
-He took the drive out of the package, plugged the cables, ensured the write blocker was working and plugged it to his forensics workstation. He then started to look for the MFT, the volumes within the drive, but there was nothing at all. He called one of his seasoned coworkers for help and after twenty minutes of trying different tools and methods, the verdict fell. The disk was indeed brand new. So Samion got the security officer on the phone to ask him how this mess came to be. Sounding uneasy, the security officer admitted he sent them a fresh drive of the same make and model than the one which was in the endpoint after the user, who was the CFO of the subsidiary, gave him a bad time and refused to hand it to him for a few hours to copy the evidence.
+When he returned to work, he asked to join the Super Hounds. Given his loyalty, dedication, and overall performance, his wish was granted. Now here he was, facing his first assignment: analysing a disk image related to a case in which an employee at a subsidiary on the other side of the world had apparently been spear-phished, resulting in an unknown malware infection — detected thanks to some strange network connections.
 
-This is not fake news, apart from the name of the main character. Cybersecurity is riddled with such epic fails. Some even say incident response and forensics are more than 80% fails for little, true successes. And that’s probably true for other cybersecurity fields, be it research, red teaming, or even risk assessments.
+He opened the freshly delivered parcel containing the drive, only to find it still in its original shrink-wrapped packaging. Being the new kid on the block, he didn’t dare question his coworkers. Maybe the local security officer, who had received clear instructions on how to clone the compromised endpoint’s disk, was just being extra careful or overly meticulous.
 
-And while there are more cybersecurity conferences than days in a year, speakers mostly describe successes and so-called cutting-edge methods and tools, which sometimes sound too good to be true, to the applause and shoulder-patting of the audience. But we, at hack.lu, think it is time we give the stage to the untold truth behind the magic of cybersecurity by making a call for failure.
+Samion removed the drive from its packaging, connected it with the proper write blocker, and plugged it into his forensic workstation. He began looking for the MFT and the drive’s volumes — but found nothing. He called over one of his seasoned coworkers, and after twenty minutes of testing different tools and methods, the verdict was in: the disk was brand new.  
 
-Did you get flagged by the blue team for a dumb mistake during a red team engagement? Have you brought down an important application in the course of a pentest or while researching a vulnerability? How about some blockchain, artificial idiocy, machine burning, Big data gotten small or cyber threat intelligence where the intelligence part was left out?
+When Samion called the security officer to figure out what went wrong, the officer sheepishly admitted that he had sent them a fresh drive of the same make and model as the original one. The CFO, whose laptop had been compromised, had refused to hand over the real drive for several hours — and the officer had panicked.
 
-Do you have a Samion's story to share with the other hack.lu attendees in ten minutes or less? Then submit to our call for failure and help us dispel the magical and BS side of cybersecurity! The human knowledge has been built on regular failures. So be proud and share your failures in a 10-minutes session which will take place during hack.lu.
+This isn’t fake news (apart from the protagonist’s name). Cybersecurity is riddled with such epic fails. Some even say that incident response and forensics consist of more than 80% failures for every few genuine successes. And the same probably holds true across the cybersecurity field — whether in research, red teaming, or risk assessments.
 
-## Registration Link to submit your talk
+While there are now more cybersecurity conferences than days in a year, most speakers focus on successes and so-called cutting-edge tools and methods that sometimes sound *too good to be true*, to the applause and back-patting of the audience. But we, at hack.lu, believe it’s time to give the stage to the **untold truth behind the magic of cybersecurity** — by making a **Call for Failure**.
 
-- To be updated 
+Did you get flagged by a blue team for a dumb mistake during a red team engagement? Did you accidentally bring down an important application during a pentest or while researching a vulnerability? How about a blockchain blunder, a machine-learning meltdown, a “Big Data gone small” incident, or some cyber threat intelligence where the *intelligence* part was missing?
+
+Do you have a story like Samion’s to share with other hack.lu attendees in ten minutes or less?  
+Then submit to our **Call for Failure** and help us dispel the magical and BS side of cybersecurity!  
+Human knowledge has always been built on regular failures. Be proud — and share yours in a **10-minute session** during hack.lu.
+
+## Registration Link
+
+- To be updated
 
 ## Location
 
-The event is open to all participant of hack.lu and the accepted speakers for the CfF 0x0. The event will take place the Wednesday 29th October 2025 during the hack.lu conference from 19:00 until 21:00. Talks will be 10-minute max.
+The event is open to all participants of hack.lu and to the accepted speakers for CfF 0x1.  
+It will take place on **Wednesday, 29 October 2025**, during the hack.lu conference, from **19:00 to 21:00**.  
+Talks will be **10 minutes max**.
+
+## History
+
+The first edition (0x0) took place in 2019 at hack.lu.  
+Now, in 2025, it’s time for the **second edition**.
+
