@@ -54,12 +54,12 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 
 ## Student Ticket Sponsors
 
-<a href="https://gcve.eu/"><img src="/images/logos/gcve.png"></a> <br/> <br/>
+<a href="https://gcve.eu/"><img src="/images/logos/gcve.png" width="75%" alt="GCVE Logo"></a> <br/> <br/>
 
 
 ## Partners
 
-<a href="https://fluxfingers.net/"><img src="/images/logos/fluxfingers.png"></a> <br/> <br/>
+<a href="https://fluxfingers.net/"><img src="/images/logos/fluxfingers.png" width="75%" alt="Fluxfingers Logo"></a> <br/> <br/>
 
 
 ## Internet & Wi-Fi
