@@ -2,7 +2,7 @@
 layout: splash
 title: Call for Failure (CfF 0x0) - Over Fail the untold truth behind the magic of cybersecurity
 excerpt: "10-minute talks during hack.lu to present (the/your) biggest failure in cybersecurity you’ve ever experienced and what have you learned from it"
-modified: 2019-07-03T19:44:38.564948-04:00
+modified: 2025-10-05T19:44:38.564948-04:00
 header:
   overlay_image: /images/cff.jpg
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
@@ -35,8 +35,8 @@ Do you have a Samion's story to share with the other hack.lu attendees in ten mi
 
 ## Registration Link to submit your talk
 
-- [https://cfp.hack.lu/cff0x0/cfp](https://cfp.hack.lu/cff0x0/cfp)
+- To be updated 
 
 ## Location
 
-The event is open to all participant of hack.lu and the accepted speakers for the CfF 0x0. The event will take place the Wednesday 23th October 2019 during the hack.lu conference from 19:00 until 21:00. Talks will be 10-minute max.
+The event is open to all participant of hack.lu and the accepted speakers for the CfF 0x0. The event will take place the Wednesday 29th October 2025 during the hack.lu conference from 19:00 until 21:00. Talks will be 10-minute max.
