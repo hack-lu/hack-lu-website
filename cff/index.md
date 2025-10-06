@@ -42,7 +42,7 @@ Human knowledge has always been built on regular failures. Be proud — and shar
 
 ## Registration Link
 
-- To be updated
+- [Submit your proposal](https://pretalx.com/hack-lu-2025/cfp?access_code=QWZ8QYN9T7BWQGRVGPTHV8SZXLS3DP7W) 
 
 ## Location
 
