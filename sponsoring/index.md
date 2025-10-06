@@ -52,6 +52,11 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
       
 ## Social Event Sponsor
 
+## Student Ticket Sponsors
+
+<a href="https://gcve.eu/"><img src="/images/logos/gcve.png"></a> <br/> <br/>
+
+
 ## Partners
 
 ## Internet & Wi-Fi
