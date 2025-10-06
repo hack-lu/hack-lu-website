@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Call for Failure (CfF 0x1) - Over Fail the untold truth behind the magic of cybersecurity
-excerpt: "10-minute talks during hack.lu to present (the/your) biggest failure in cybersecurity you’ve ever experienced and what have you learned from it"
+excerpt: "10-minute talks during hack.lu to present (the/your) biggest failure in cybersecurity you’ve ever experienced and what have you learned from it (or not)"
 modified: 2025-10-05T19:44:38.564948-04:00
 header:
   overlay_image: /images/cff.jpg
