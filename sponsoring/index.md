@@ -59,6 +59,9 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 
 ## Partners
 
+<a href="[https://gcve.eu/](https://fluxfingers.net)"><img src="/images/logos/fluxfingers.png"></a> <br/> <br/>
+
+
 ## Internet & Wi-Fi
 
 <a href="https://www.conostix.com/"><img src="/images/logos/conostix.png"></a> <br/> <br/>
