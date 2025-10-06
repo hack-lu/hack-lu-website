@@ -47,7 +47,7 @@ Human knowledge has always been built on regular failures. Be proud — and shar
 ## Location
 
 The event is open to all participants of hack.lu and to the accepted speakers for CfF 0x1.  
-It will take place on **Wednesday, 29 October 2025**, during the hack.lu conference, from **19:00 to 21:00**.  
+It will take place on **Wednesday, 22 October 2025**, during the hack.lu conference, from **19:00 to 21:00**.  
 Talks will be **10 minutes max**.
 
 ## History
