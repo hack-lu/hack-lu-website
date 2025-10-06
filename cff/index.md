@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 ---
 
-# Call for Failure (CfF 0x0)
+# Call for Failure (CfF 0x1)
 
 ## Over Fail: The Untold Truth Behind the Magic of Cybersecurity
 
