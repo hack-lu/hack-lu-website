@@ -59,7 +59,7 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 
 ## Partners
 
-<a href="[https://gcve.eu/](https://fluxfingers.net)"><img src="/images/logos/fluxfingers.png"></a> <br/> <br/>
+<a href="https://fluxfingers.net/"><img src="/images/logos/fluxfingers.png"></a> <br/> <br/>
 
 
 ## Internet & Wi-Fi
