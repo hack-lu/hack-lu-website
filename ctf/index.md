@@ -15,7 +15,7 @@ header:
 The 2025's CTF will at hack.lu again be held by [FluxFingers](https://flu.xxx/), the CTF Team of
 Ruhr-Universität Bochum (Germany).
 
-![FluxFingers logo](https://fluxfingers.net/static/img/logo_white.png)
+![FluxFingers logo](/images/logos/fluxfinger.png)
 
 # Who
 
