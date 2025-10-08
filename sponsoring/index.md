@@ -47,8 +47,10 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 
 <a href="https://www.sans.org/emea"><img src="/images/logos/sans.png"></a> <br/> <br/>
 <a href="https://www.corelight.com/"><img src="/images/logos/corelight.png"></a> <br/> <br/>
-<a href="https://epsilon-sec.com/"><img src="/images/logos/epsilon_full_320_132.png"></a> <br/> <br/>
 <a href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" /></a><br/><br/>
+<a href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png"></a> <br/> <br/>
+<a href="https://www.pwc.lu/"> <img src="/images/logos/PricewaterhouseCoopers_Logo.png" /></a><br /><br />
+<a href="https://epsilon-sec.com/"><img src="/images/logos/epsilon_full_320_132.png"></a> <br/> <br/>
 
       
 ## Social Event Sponsor
