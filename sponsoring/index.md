@@ -44,7 +44,7 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 # Sponsors
 
 ## Sponsored by
-
+<a href="https://meco.gouvernement.lu/"><img src="/images/logos/mineco.png"></a> <br/> <br/>
 <a href="https://www.sans.org/emea"><img src="/images/logos/sans.png"></a> <br/> <br/>
 <a href="https://www.corelight.com/"><img src="/images/logos/corelight.png"></a> <br/> <br/>
 <a href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" /></a><br/><br/>
