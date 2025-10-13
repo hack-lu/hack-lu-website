@@ -12,16 +12,16 @@ header:
   caption: "Photo credit: [**adulau**](https://www.flickr.com/photos/adulau)"
 ---
 
-The 2025's CTF will at hack.lu again be held by [FluxFingers](https://flu.xxx/), the CTF Team of
+The 2025's CTF will at hack.lu again be held by [FluxFingers](https://fluxfingers.net/), the CTF Team of
 Ruhr-Universität Bochum (Germany).
 
 ![FluxFingers logo](/images/logos/fluxfingers.png)
 
 # Who
 
-Everyone may participate remotely.
+Everyone may participate remotely at [flu.xxx](https://flu.xxx/).
 
-For updates concerning the CTF follow us at [@fluxfingers](https://twitter.com/fluxfingers).
+For updates concerning the CTF follow [@fluxfingers](https://twitter.com/fluxfingers) on X/Twitter or [@fluxfingers.net](https://bsky.app/profile/fluxfingers.net) on Bluesky.
 
 # When
 
@@ -32,4 +32,3 @@ The Capture The Flag (CTF) competition is held prior to the conference, enabling
 # During the hack.lu 2025 event
 
 Several on‑site CTF events and other challenges will be held during the conference and will be open to all participants.
-
