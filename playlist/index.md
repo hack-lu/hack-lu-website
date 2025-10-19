@@ -11,7 +11,7 @@ header:
 
 ## Playlist
 
-- [Spotify link](https://open.spotify.com/playlist/0jXmKb3AcG6R7OlDvrnI3F?si=2GpABlkeQfWebq3CyUVjQA&pi=nT5RhuOKSa2jz&_branch_match_id=1508506296099900147&utm_source=copy-link&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq9TLyczL1i%2FO8k92cc40dIxIsq8rSk1LLSrKzEuPTyrKLy9OLbJ1ywSK5VcAAGxJwOY7AAAA)
+- [Spotify link](https://open.spotify.com/playlist/0jXmKb3AcG6R7OlDvrnI3F)
 
 |#  |Song                                    |Artist                                 |Popularity|BPM|Genres                                                                                    |Parent Genres                |Album                                                     |Album Date|Time |Dance|Energy|Acoustic|Instrumental|Happy|Speech|Live|Loud (Db)|Key        |Time Signature|Added At  |Spotify Track Id      |Album Label               |Camelot|ISRC        |
 |---|----------------------------------------|---------------------------------------|----------|---|------------------------------------------------------------------------------------------|-----------------------------|----------------------------------------------------------|----------|-----|-----|------|--------|------------|-----|------|----|---------|-----------|--------------|----------|----------------------|--------------------------|-------|------------|
