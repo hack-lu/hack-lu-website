@@ -1,4 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://2025.hack.lu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://2025.hack.lu/" rel="alternate" type="text/html" /><updated>2025-10-06T13:45:18+02:00</updated><id>https://2025.hack.lu/</id><title type="html">hack.lu 2025</title><subtitle>Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It&apos;s the 19th edition (21st -&gt; 24th October) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author><entry><title type="html">Final Reminder: 1 Day Left to Submit to hack.lu 2025 Call for Paper</title><link href="https://2025.hack.lu/blog/hack.lu-2025-call-for-papers-one-day-left/" rel="alternate" type="text/html" title="Final Reminder: 1 Day Left to Submit to hack.lu 2025 Call for Paper" /><published>2025-05-19T07:39:55+02:00</published><updated>2025-05-19T07:39:55+02:00</updated><id>https://2025.hack.lu/blog/hack.lu-2025-call-for-papers-one-day-left</id><content type="html" xml:base="https://2025.hack.lu/blog/hack.lu-2025-call-for-papers-one-day-left/">&lt;h1 id=&quot;-final-reminder-1-day-left-to-submit-to-hacklu-2025-call-for-papers&quot;&gt;⏳ Final Reminder: 1 Day Left to Submit to hack.lu 2025 Call for Papers&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://2026.hack.lu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://2026.hack.lu/" rel="alternate" type="text/html" /><updated>2026-02-27T09:27:54+01:00</updated><id>https://2026.hack.lu/</id><title type="html">hack.lu 2026</title><subtitle>Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It&apos;s the 20th edition (20th -&gt; 23rd October) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author><entry><title type="html">Call for papers is now open for hack.lu 2026 (the 20th edition!)</title><link href="https://2026.hack.lu/blog/hack.lu-2026-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2026 (the 20th edition!)" /><published>2026-02-26T10:39:55+01:00</published><updated>2026-02-26T10:39:55+01:00</updated><id>https://2026.hack.lu/blog/hack.lu-2026-call-for-papers</id><content type="html" xml:base="https://2026.hack.lu/blog/hack.lu-2026-call-for-papers/">&lt;h1 id=&quot;hacklu-2026-call-for-papers&quot;&gt;hack.lu 2026 Call for Papers&lt;/h1&gt;
+
+&lt;p&gt;The purpose of the hack.lu convention is to provide an open and free playground where people can discuss the implications of new technologies in society. hack.lu is a balanced mix convention where technical and non-technical people can meet and share all kinds of information freely. The convention will be held in the Grand-Duchy of Luxembourg in October (20-23.10.2026). The most significant new discoveries about computer network attacks and defenses, open-source security solutions, and pragmatic real-world security experiences will be presented in a four-day series of informative tutorials.&lt;/p&gt;
+
+&lt;p&gt;Hack.lu includes the Cyber and Threat Intelligence Summit gathering all the experts, analysts, users, and contributors to cyber and threat intelligence at large. A strong focus will be given to projects bridging intelligence communities together and also open-source related projects.&lt;/p&gt;
+
+&lt;p&gt;We invite you to submit papers, lightning talks, and workshop proposals for selection by the hack.lu technical review committee.&lt;/p&gt;
+
+&lt;h2 id=&quot;topics-of-interest&quot;&gt;Topics of interest&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Software Engineering and Security&lt;/li&gt;
+  &lt;li&gt;Social Engineering&lt;/li&gt;
+  &lt;li&gt;Honeypots/Honeynets&lt;/li&gt;
+  &lt;li&gt;Spyware, Phishing and Botnets (Distributed attacks)&lt;/li&gt;
+  &lt;li&gt;Newly discovered vulnerabilities in software and hardware&lt;/li&gt;
+  &lt;li&gt;Electronic/Digital Privacy&lt;/li&gt;
+  &lt;li&gt;Wireless Network and Security&lt;/li&gt;
+  &lt;li&gt;Attacks on Information Systems and/or Digital Information Storage&lt;/li&gt;
+  &lt;li&gt;Electronic Voting Security&lt;/li&gt;
+  &lt;li&gt;Free Software and Security&lt;/li&gt;
+  &lt;li&gt;Assessment of Computer, Electronic Devices and Information Systems&lt;/li&gt;
+  &lt;li&gt;Standards for Information Security&lt;/li&gt;
+  &lt;li&gt;Legal and Social Aspect of Information Security&lt;/li&gt;
+  &lt;li&gt;Software Engineering and Security&lt;/li&gt;
+  &lt;li&gt;Security in Information Retrieval&lt;/li&gt;
+  &lt;li&gt;Network Security&lt;/li&gt;
+  &lt;li&gt;Malware Analysis and Reversing&lt;/li&gt;
+  &lt;li&gt;Forensics and Anti-Forensics&lt;/li&gt;
+  &lt;li&gt;Offensive (and counter-offensive) Information Technology&lt;/li&gt;
+  &lt;li&gt;Mobile Communications Security and Vulnerabilities&lt;/li&gt;
+  &lt;li&gt;CSIRTs, Incident Analysis and Response&lt;/li&gt;
+  &lt;li&gt;Information Security and Data Mining&lt;/li&gt;
+  &lt;li&gt;Threats Exchange and Sharing&lt;/li&gt;
+  &lt;li&gt;Open source tooling used in threat intelligence including new tools or development of existing tools&lt;/li&gt;
+  &lt;li&gt;Threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Successes and failures in creating threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Use of open source tools (such as MISP) into SOC, CSIRT or any security organisation or intelligence community to support threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;Interoperability between threat intelligence tools (open source and proprietary)&lt;/li&gt;
+  &lt;li&gt;Improving and evaluating quality of threat intelligence at large&lt;/li&gt;
+  &lt;li&gt;Share lessons learnt in the intelligence domains including analysis processes, analytical methods and/or techniques&lt;/li&gt;
+  &lt;li&gt;Lessons and challenges while performing intelligence analysis&lt;/li&gt;
+  &lt;li&gt;Successes and failures in data modelling for intelligence&lt;/li&gt;
+  &lt;li&gt;Share experiences in information and intelligence sharing including building communities, tooling, social interactions&lt;/li&gt;
+  &lt;li&gt;Improving skills in intelligence domain such as threat analysis, collection and dissemination&lt;/li&gt;
+  &lt;li&gt;Integrating OSINT, HUMINT, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*INT&lt;/code&gt; into threat intelligence processes&lt;/li&gt;
+  &lt;li&gt;AI at large (use and abuse of Artificial Intelligence in Information Security)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The above lists of topics are not exhaustive and other related topics are welcome.&lt;/p&gt;
+
+&lt;h2 id=&quot;presentation-format&quot;&gt;Presentation Format&lt;/h2&gt;
+
+&lt;p&gt;The format of the talks during hack.lu is composed of a 20-minute maximum presentation with a 10-minute Q&amp;amp;A session. The goal is to foster collaboration and live discussions. The sessions will be video recorded except if the presenter doesn’t accept. Complementary papers, articles, and presentations are highly encouraged for participants who are willing to have more insight about the presentation given.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-information&quot;&gt;General Information&lt;/h2&gt;
+
+&lt;h3 id=&quot;date-and-location&quot;&gt;Date and Location&lt;/h3&gt;
+
+&lt;p&gt;The hack.lu conference will take place physically in Luxembourg (October 20 - 2333, 2026) at the&lt;br /&gt;
+Parc Hotel Alvisse, 120 Route d’Echternach, L-1453 Luxembourg&lt;br /&gt;
+(Long : 49.6399337, Lat : 6.1517228)&lt;/p&gt;
+
+&lt;h3 id=&quot;speakers-privileges-of-hacklu-not-applicable-to-lightning-talks-or-call-for-failure-cff&quot;&gt;Speakers’ Privileges of hack.lu (not applicable to Lightning talks or Call For Failure (CfF)):&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For the selected talks/presentations/papers, authors will get a free access to the conference.&lt;/li&gt;
+  &lt;li&gt;One speaker per talk/workshop&lt;/li&gt;
+  &lt;li&gt;Accommodation will be provided (up to 4 nights during the conference). Hotel room must be reserved with a dedicated registration code. A credit card is needed as guarantee for the hotel. It won’t be charged for the covered nights (excluding additional services you might take).&lt;/li&gt;
+  &lt;li&gt;Reimbursement of travel costs up to 300 EUR&lt;/li&gt;
+  &lt;li&gt;Lunch, beverages, and more during the all days of the conference&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;language&quot;&gt;Language&lt;/h3&gt;
+
+&lt;p&gt;The language of the conference is English.&lt;/p&gt;
+
+&lt;h3 id=&quot;publication-and-rights&quot;&gt;Publication and Rights&lt;/h3&gt;
+
+&lt;p&gt;Authors keep the full rights on their publications/papers but give an unrestricted right to redistribute their papers for the hack.lu convention and its related electronic/paper publication.&lt;/p&gt;
+
+&lt;p&gt;You can enter proposals until 2026-05-31 11:59 PM (Luxembourg time).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2026/cfp&quot;&gt;Edit or view your proposals&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://pretalx.com/hack-lu-2026/cfp&quot;&gt;Submit a proposal&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsoring&quot;&gt;Sponsoring&lt;/h2&gt;
+
+&lt;p&gt;If  you  want  to  support  the  initiative  and  gain  visibility  by
+sponsoring, please contact us by writing an e-mail to info(AT)hack.lu&lt;/p&gt;
+
+&lt;p&gt;For more information about &lt;a href=&quot;/sponsoring&quot;&gt;sponsoring options&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;cfp-website-submission&quot;&gt;CfP Website Submission&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2026/&quot;&gt;CfP hack.lu 2026 submission website&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;additiona-cfp---call-for-failures---cff-0x2&quot;&gt;Additiona CfP - Call For Failures - &lt;a href=&quot;/cff&quot;&gt;CfF 0x2&lt;/a&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It’s a session during hack.lu 2026 where participants present 10-minute talks about their biggest failure in cybersecurity, and — crucially — what they learned (or didn’t learn) from it.&lt;/li&gt;
+  &lt;li&gt;This track is reserved for participants and speakers of hack.lu. You need to have a specific code to be able to submit your proposal.&lt;/li&gt;
+  &lt;li&gt;The theme is “Over Fail: The Untold Truth Behind the Magic of Cybersecurity”. The organizers want to counterbalance the usual success stories by giving space to real mistakes.&lt;/li&gt;
+  &lt;li&gt;Examples of what might be shared include:
+    &lt;ul&gt;
+      &lt;li&gt;Mistakes in red teaming or pentesting (bringing down a system inadvertently).&lt;/li&gt;
+      &lt;li&gt;Blunders in forensics or incident response (e.g. mis-handling evidence).&lt;/li&gt;
+      &lt;li&gt;Failures in threat intelligence, blockchain, AI, big data, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;logistics--context&quot;&gt;Logistics &amp;amp; Context&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CfF talks will be held one evening during the conference from around 19:00 to 21:00.&lt;/li&gt;
+  &lt;li&gt;Only hack.lu participants whose proposals are accepted can present.&lt;/li&gt;
+  &lt;li&gt;This is the third edition (the first being CfF 0x0 in 2019) at hack.lu.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>hack.lu</name></author><summary type="html">Time to submit a talk, training or workshop to hack.lu</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2026.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Best Paper Award of hack.lu 2025</title><link href="https://2026.hack.lu/blog/best-paper-award-2025/" rel="alternate" type="text/html" title="Best Paper Award of hack.lu 2025" /><published>2025-10-26T09:15:00+01:00</published><updated>2025-10-26T09:15:00+01:00</updated><id>https://2026.hack.lu/blog/best-paper-award-2025</id><content type="html" xml:base="https://2026.hack.lu/blog/best-paper-award-2025/">&lt;h2 id=&quot;-best-paper-award--hacklu-2025&quot;&gt;🏆 Best Paper Award — &lt;em&gt;hack.lu 2025&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;We are pleased to announce that the &lt;strong&gt;Best Paper Award of hack.lu 2025&lt;/strong&gt; has been granted to &lt;strong&gt;David Durvaux&lt;/strong&gt;, &lt;strong&gt;Dario B.&lt;/strong&gt;, and &lt;strong&gt;Christophe Vandeplas&lt;/strong&gt; for their outstanding contribution to the community with the open-source project &lt;strong&gt;“&lt;a href=&quot;https://github.com/EC-DIGIT-CSIRC/sysdiagnose&quot;&gt;Sysdiagnose Analysis Framework&lt;/a&gt;.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, the Program Committee chose to distinguish this work for several key reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;A rare open-source contribution in the iOS forensics field&lt;/strong&gt;&lt;br /&gt;
+Digital forensics on iPhone devices remains notoriously difficult, with most tools being proprietary and inaccessible to many practitioners. By delivering a fully open-source framework, the authors significantly lower the barrier for investigators, researchers, and incident responders in need of transparent and reproducible forensic tooling.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Direct impact on the security and DFIR community&lt;/strong&gt;&lt;br /&gt;
+The framework empowers security professionals to conduct in-depth iOS investigations with more autonomy, flexibility, and trust. Its practical relevance to real-world forensic workflows made it stand out among this year’s submissions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;A commitment to knowledge-sharing and community building&lt;/strong&gt;&lt;br /&gt;
+Beyond the talk, the authors delivered &lt;strong&gt;two hands-on workshops&lt;/strong&gt; during hack.lu 2025, demonstrating not only their technical expertise but also their dedication to spreading knowledge and helping others adopt the tool. Their ongoing effort to &lt;strong&gt;build and nurture an open community&lt;/strong&gt; around the project during hack.lu and after which is fully aligned with the spirit and values of hack.lu.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For these reasons, we are proud to highlight their work and celebrate their contribution to advancing open security, transparency, and collaboration.&lt;/p&gt;
+
+&lt;p&gt;Congratulations once again to David, Dario, and Christophe — and to the growing community around the Sysdiagnose Analysis Framework. We look forward to seeing how this important project evolves!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;— The hack.lu 2025 Program Committee&lt;/em&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">hack.lu access for the first ten students is sponsored</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2026.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Call for Failures @ hack.lu 2025 — Because We All Break Things</title><link href="https://2026.hack.lu/blog/hack.lu-call-for-failures-at-hack-lu/" rel="alternate" type="text/html" title="Call for Failures @ hack.lu 2025 — Because We All Break Things" /><published>2025-10-17T06:15:00+02:00</published><updated>2025-10-17T06:15:00+02:00</updated><id>https://2026.hack.lu/blog/hack.lu-call-for-failures-at-hack-lu</id><content type="html" xml:base="https://2026.hack.lu/blog/hack.lu-call-for-failures-at-hack-lu/">&lt;h2 id=&quot;-call-for-failures--hacklu-2025--because-we-all-break-things&quot;&gt;💥 Call for Failures @ hack.lu 2025 — Because We All Break Things&lt;/h2&gt;
+
+&lt;p&gt;At &lt;strong&gt;hack.lu&lt;/strong&gt;, we love stories of brilliance — new tools, cutting-edge exploits, and clever defenses.&lt;br /&gt;
+But let’s be honest: &lt;strong&gt;the best lessons often come from things that went spectacularly wrong.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s why we’re bringing back the &lt;strong&gt;Call for Failures (CFF)&lt;/strong&gt; — a &lt;strong&gt;mini-conference inside hack.lu&lt;/strong&gt; dedicated entirely to sharing the things that &lt;em&gt;didn’t&lt;/em&gt; go as planned.&lt;/p&gt;
+
+&lt;p&gt;🗓️ &lt;strong&gt;When:&lt;/strong&gt; Wednesday, 22 October 2025&lt;br /&gt;
+🕖 &lt;strong&gt;Time:&lt;/strong&gt; 19:00 – 21:00&lt;br /&gt;
+📍 &lt;strong&gt;Where:&lt;/strong&gt; At hack.lu, Luxembourg&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-the-call-for-failures&quot;&gt;What is the Call for Failures?&lt;/h3&gt;
+
+&lt;p&gt;CFF is your chance to take the stage for &lt;strong&gt;10 minutes&lt;/strong&gt; and talk about a failure — yours or someone else’s — that taught you something meaningful in cybersecurity.&lt;br /&gt;
+No buzzwords, no corporate slides, no blame games — just &lt;strong&gt;honest stories, good humor, and lessons learned&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maybe you:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Deployed a “quick” fix that took down your entire network.&lt;/li&gt;
+  &lt;li&gt;Spent months building a tool that no one used.&lt;/li&gt;
+  &lt;li&gt;Misconfigured a system in a way that taught you more than any training ever could.&lt;/li&gt;
+  &lt;li&gt;Tried to improve security… and made it worse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If it broke, crashed, backfired, or blew up (figuratively, please), &lt;strong&gt;we want to hear about it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;why-share-your-failure&quot;&gt;Why share your failure?&lt;/h3&gt;
+
+&lt;p&gt;Because every broken system, every bad idea, and every facepalm moment makes our community stronger.&lt;br /&gt;
+At hack.lu, we believe in &lt;strong&gt;learning by doing — and sometimes by failing spectacularly&lt;/strong&gt;.&lt;br /&gt;
+Your story could help someone else avoid the same mistake, or maybe even inspire a better way forward.&lt;/p&gt;
+
+&lt;h3 id=&quot;format&quot;&gt;Format&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;10-minute talk&lt;/strong&gt; (short, raw, and real)&lt;/li&gt;
+  &lt;li&gt;No slides required — but they’re welcome&lt;/li&gt;
+  &lt;li&gt;Can be &lt;strong&gt;technical, organizational, or personal&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Anonymous submissions are possible (we know how it is…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;submit-your-story&quot;&gt;Submit your story&lt;/h3&gt;
+
+&lt;p&gt;Head to 👉 &lt;a href=&quot;https://2025.hack.lu/cff/&quot;&gt;https://2025.hack.lu/cff/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2025/cfp?access_code=QWZ8QYN9T7BWQGRVGPTHV8SZXLS3DP7W&quot;&gt;Submissions are open&lt;/a&gt; — we’re looking for honest, funny, painful, and insightful talks from across the security spectrum or related.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Remember:&lt;/strong&gt; failure isn’t the opposite of success — it’s the path that leads to it.&lt;br /&gt;
+So come share yours. Let’s laugh, cringe, and learn together at &lt;strong&gt;hack.lu 2025&lt;/strong&gt;.&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Call for Failures @ hack.lu 2025 — Because We All Break Things</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2026.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">First Student Ticket Sponsor: GCVE.eu</title><link href="https://2026.hack.lu/blog/hack.lu-2025-first-student-ticket-sponsor/" rel="alternate" type="text/html" title="First Student Ticket Sponsor: GCVE.eu" /><published>2025-10-06T10:15:00+02:00</published><updated>2025-10-06T10:15:00+02:00</updated><id>https://2026.hack.lu/blog/hack.lu-2025-first-student-ticket-sponsor</id><content type="html" xml:base="https://2026.hack.lu/blog/hack.lu-2025-first-student-ticket-sponsor/">&lt;h1 id=&quot;gcveeu-supports-student-participation-at-hacklu-2025&quot;&gt;GCVE.eu supports student participation at hack.lu 2025&lt;/h1&gt;
+
+&lt;p&gt;hack.lu is proud to announce its first Student Ticket Sponsor for the 2025 edition: &lt;a href=&quot;https://gcve.eu/&quot;&gt;GCVE.eu&lt;/a&gt;.
+With their generous contribution, &lt;a href=&quot;https://gcve.eu/&quot;&gt;GCVE&lt;/a&gt; has made it possible to unlock a new batch of 10 student tickets for this year’s conference, helping students and young researchers attend one of Europe’s longest-running cybersecurity events at a significantly reduced rate.&lt;/p&gt;
+
+&lt;p&gt;For nearly two decades, hack.lu has been a place where professionals, researchers, and students come together to explore the many aspects of computer security, privacy, and digital culture.
+The Student Ticket Sponsor Program was created to preserve this open and inclusive spirit — enabling the next generation of cybersecurity experts to connect, learn, and contribute, regardless of financial barriers.&lt;/p&gt;
+
+&lt;p&gt;The reduced student ticket price of 375 EUR is made possible through a shared sponsorship model:
+each ticket is partially funded by hack.lu itself and further supported by sponsoring partners such as &lt;a href=&quot;https://gcve.eu/&quot;&gt;GCVE.eu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“Supporting students in cybersecurity is an investment in the future resilience of our digital society. We are grateful to GCVE.eu for helping us keep hack.lu accessible to emerging talents,”
+said Sascha Rommelfangen, organizer of hack.lu.&lt;/p&gt;
+
+&lt;p&gt;The Global CVE (GCVE) allocation system is a new, decentralized approach to vulnerability identification and numbering, designed to improve flexibility, scalability, and autonomy for participating entities.&lt;/p&gt;
+
+&lt;p&gt;Additional Student Ticket Sponsorships are still available and can be purchased via the hack.lu information page:
+👉 &lt;a href=&quot;/info/&quot;&gt;https://2025.hack.lu/info/&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">hack.lu access for the first ten students is sponsored</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2026.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Final Reminder: 1 Day Left to Submit to hack.lu 2025 Call for Paper</title><link href="https://2026.hack.lu/blog/hack.lu-2025-call-for-papers-one-day-left/" rel="alternate" type="text/html" title="Final Reminder: 1 Day Left to Submit to hack.lu 2025 Call for Paper" /><published>2025-05-19T07:39:55+02:00</published><updated>2025-05-19T07:39:55+02:00</updated><id>https://2026.hack.lu/blog/hack.lu-2025-call-for-papers-one-day-left</id><content type="html" xml:base="https://2026.hack.lu/blog/hack.lu-2025-call-for-papers-one-day-left/">&lt;h1 id=&quot;-final-reminder-1-day-left-to-submit-to-hacklu-2025-call-for-papers&quot;&gt;⏳ Final Reminder: 1 Day Left to Submit to hack.lu 2025 Call for Papers&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/blocks.png&quot; alt=&quot;hack.lu 2025&quot; /&gt;&lt;/p&gt;
 
@@ -64,7 +272,7 @@ sponsoring, please contact us by writing an e-mail to info(AT)hack.lu&lt;/p&gt;
 
 &lt;h2 id=&quot;cfp-website-submission&quot;&gt;CfP Website Submission&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2025/&quot;&gt;CfP hack.lu 2025 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Time to submit a talk, training or workshop to hack.lu</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2025.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">BSidesLuxembourg is back in 2025, June 19th in Belval</title><link href="https://2025.hack.lu/blog/hack.lu-2025-bsides.lu/" rel="alternate" type="text/html" title="BSidesLuxembourg is back in 2025, June 19th in Belval" /><published>2025-05-14T12:00:00+02:00</published><updated>2025-05-14T12:00:00+02:00</updated><id>https://2025.hack.lu/blog/hack.lu-2025-bsides.lu</id><content type="html" xml:base="https://2025.hack.lu/blog/hack.lu-2025-bsides.lu/">&lt;h1 id=&quot;bsidesluxembourg-is-back-in-2025&quot;&gt;BSidesLuxembourg is back in 2025!&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2025/&quot;&gt;CfP hack.lu 2025 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Time to submit a talk, training or workshop to hack.lu</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2026.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">BSidesLuxembourg is back in 2025, June 19th in Belval</title><link href="https://2026.hack.lu/blog/hack.lu-2025-bsides.lu/" rel="alternate" type="text/html" title="BSidesLuxembourg is back in 2025, June 19th in Belval" /><published>2025-05-14T12:00:00+02:00</published><updated>2025-05-14T12:00:00+02:00</updated><id>https://2026.hack.lu/blog/hack.lu-2025-bsides.lu</id><content type="html" xml:base="https://2026.hack.lu/blog/hack.lu-2025-bsides.lu/">&lt;h1 id=&quot;bsidesluxembourg-is-back-in-2025&quot;&gt;BSidesLuxembourg is back in 2025!&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://bsides.lu&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/logos/2025_bsides_lu_banner_white.png&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -90,7 +298,7 @@ We hope to see you there!&lt;/p&gt;
 
 &lt;p&gt;Hack the planet. The BSidesLuxembourg team.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://bsides.lu&quot;&gt;bsides.lu&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">...with #OffensiveSecurity #OffensiveOps village on June 18th!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2025.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Call for papers is now open for hack.lu 2025</title><link href="https://2025.hack.lu/blog/hack.lu-2025-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2025" /><published>2024-12-03T10:39:55+01:00</published><updated>2024-12-03T10:39:55+01:00</updated><id>https://2025.hack.lu/blog/hack.lu-2025-call-for-papers</id><content type="html" xml:base="https://2025.hack.lu/blog/hack.lu-2025-call-for-papers/">&lt;h1 id=&quot;hacklu-2025-call-for-papers-including-cti-summit&quot;&gt;hack.lu 2025 Call for Papers (including cti-summit)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://bsides.lu&quot;&gt;bsides.lu&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">...with #OffensiveSecurity #OffensiveOps village on June 18th!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2026.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Call for papers is now open for hack.lu 2025</title><link href="https://2026.hack.lu/blog/hack.lu-2025-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2025" /><published>2024-12-03T10:39:55+01:00</published><updated>2024-12-03T10:39:55+01:00</updated><id>https://2026.hack.lu/blog/hack.lu-2025-call-for-papers</id><content type="html" xml:base="https://2026.hack.lu/blog/hack.lu-2025-call-for-papers/">&lt;h1 id=&quot;hacklu-2025-call-for-papers-including-cti-summit&quot;&gt;hack.lu 2025 Call for Papers (including cti-summit)&lt;/h1&gt;
 
 &lt;p&gt;The purpose of the hack.lu convention is to provide an open and free playground where people can discuss the implications of new technologies in society. hack.lu is a balanced mix convention where technical and non-technical people can meet and share all kinds of information freely. The convention will be held in the Grand-Duchy of Luxembourg in October (21-24.10.2025). The most significant new discoveries about computer network attacks and defenses, open-source security solutions, and pragmatic real-world security experiences will be presented in a four-day series of informative tutorials.&lt;/p&gt;
 
@@ -188,7 +396,7 @@ sponsoring, please contact us by writing an e-mail to info(AT)hack.lu&lt;/p&gt;
 
 &lt;h2 id=&quot;cfp-website-submission&quot;&gt;CfP Website Submission&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2025/&quot;&gt;CfP hack.lu 2025 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Time to submit a talk, training or workshop to hack.lu</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2025.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights</title><link href="https://2025.hack.lu/blog/hack.lu-2024-wraps-up/" rel="alternate" type="text/html" title="hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights" /><published>2024-11-04T05:39:55+01:00</published><updated>2024-11-04T05:39:55+01:00</updated><id>https://2025.hack.lu/blog/hack.lu-2024-wraps-up</id><content type="html" xml:base="https://2025.hack.lu/blog/hack.lu-2024-wraps-up/">&lt;p&gt;Luxembourg, November 04, 2024 – hack.lu, Europe’s central hub for cybersecurity professionals, enthusiasts, and experts, celebrated its 18th successful edition from October 22-25 in Luxembourg, hosting a packed agenda of workshops, trainings, and talks. With over 500 participants from around the world and 75 expert speakers, this year’s conference once again proved to be an essential event in the cybersecurity calendar.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pretalx.com/hack-lu-2025/&quot;&gt;CfP hack.lu 2025 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Time to submit a talk, training or workshop to hack.lu</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2026.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights</title><link href="https://2026.hack.lu/blog/hack.lu-2024-wraps-up/" rel="alternate" type="text/html" title="hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights" /><published>2024-11-04T05:39:55+01:00</published><updated>2024-11-04T05:39:55+01:00</updated><id>https://2026.hack.lu/blog/hack.lu-2024-wraps-up</id><content type="html" xml:base="https://2026.hack.lu/blog/hack.lu-2024-wraps-up/">&lt;p&gt;Luxembourg, November 04, 2024 – hack.lu, Europe’s central hub for cybersecurity professionals, enthusiasts, and experts, celebrated its 18th successful edition from October 22-25 in Luxembourg, hosting a packed agenda of workshops, trainings, and talks. With over 500 participants from around the world and 75 expert speakers, this year’s conference once again proved to be an essential event in the cybersecurity calendar.&lt;/p&gt;
 
 &lt;p&gt;Over the course of four days, hack.lu attendees immersed themselves in topics at the forefront of security, intelligence, and privacy. They enjoyed a packed schedule balanced with ample opportunities to connect over coffee breaks, pastries, and thoughtfully prepared lunches. As a priority for hack.lu, exceptional catering played an essential role in keeping energy high and conversations flowing throughout the event. Attendees also actively participated by presenting 26 lightning talks, each allowing speakers to share their experiences in a concise 5-minute format.&lt;/p&gt;
 
@@ -204,4 +412,4 @@ sponsoring, please contact us by writing an e-mail to info(AT)hack.lu&lt;/p&gt;
 
 &lt;p&gt;Alexandre Dulaunoy, co-founder and main organizer of hack.lu, sums it up: &lt;em&gt;“hack.lu has always been about creating a space where knowledge flows freely and innovation thrives. This year, we saw remarkable ideas emerge from discussions, workshops, and impromptu conversations over coffee or tea. The diversity of voices – from seasoned experts to emerging talents – made this edition incredibly dynamic. We’re honored to facilitate these connections that not only strengthen our community but also push the boundaries of cybersecurity collaboration on a global scale. We look forward to building and improving on this momentum for hack.lu 2025, continuing to shape a future where security and openness go hand in hand.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;As hack.lu 2024 concludes, the organizers are already setting their sights on &lt;strong&gt;hack.lu 2025, scheduled for October 21-24, 2025&lt;/strong&gt;, promising another year of inspiration, innovation, and community for the global cybersecurity landscape. We would also like to extend our heartfelt thanks to all our sponsors, supporters, volunteers, and participants who helped make hack.lu a remarkable conference.&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2025.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry></feed>
+&lt;p&gt;As hack.lu 2024 concludes, the organizers are already setting their sights on &lt;strong&gt;hack.lu 2025, scheduled for October 21-24, 2025&lt;/strong&gt;, promising another year of inspiration, innovation, and community for the global cybersecurity landscape. We would also like to extend our heartfelt thanks to all our sponsors, supporters, volunteers, and participants who helped make hack.lu a remarkable conference.&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">hack.lu 2024 Wraps Up a Thrilling 18th Edition with Global Participation and Networking Highlights</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2026.hack.lu/%7B%22feature%22=%3Enil%7D" /></entry></feed>

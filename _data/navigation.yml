@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Call-for-Papers"
-    url: https://pretalx.com/hack-lu-2025/ 
+    url: https://pretalx.com/hack-lu-2026/ 
   - title: "Sponsoring"
     url: /sponsoring/
   - title: "Agenda"
@@ -12,8 +12,10 @@ main:
     url: /CoD/
   - title: "CTF"
     url: /ctf/
-  - title: "2024"
-    url: https://2024.hack.lu/
+  - title: "2025"
+    url: https://2025.hack.lu/
+  - title: "archive"
+    url: https://archive.hack.lu/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

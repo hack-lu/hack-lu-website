@@ -1,14 +1,14 @@
 ---
 layout: splash
-title: Call for Failure (CfF 0x1) - Over Fail the untold truth behind the magic of cybersecurity
+title: Call for Failure (CfF 0x2) - Over Fail the untold truth behind the magic of cybersecurity
 excerpt: "10-minute talks during hack.lu to present (the/your) biggest failure in cybersecurity you’ve ever experienced and what have you learned from it (or not)"
-modified: 2025-10-05T19:44:38.564948-04:00
+modified: 2026-02-26T19:44:38.564948-04:00
 header:
   overlay_image: /images/cff.jpg
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 ---
 
-# Call for Failure (CfF 0x1)
+# Call for Failure (CfF 0x2)
 
 ## Over Fail: The Untold Truth Behind the Magic of Cybersecurity
 
@@ -42,7 +42,7 @@ Human knowledge has always been built on regular failures. Be proud — and shar
 
 ## Registration Link
 
-- [Submit your proposal](https://pretalx.com/hack-lu-2025/cfp?access_code=QWZ8QYN9T7BWQGRVGPTHV8SZXLS3DP7W) 
+- [Submit your proposal](https://pretalx.com/hack-lu-2026/cfp?access_code=3YBVRPMY78JT9EEVGJ9G9GATVHFQYJ8F) 
 
 ## Location
 
@@ -53,5 +53,5 @@ Talks will be **10 minutes max**.
 ## History
 
 The first edition (0x0) took place in 2019 at hack.lu.  
-Now, in 2025, it’s time for the **second edition**.
+Now, in 2026, it’s time for the **third edition**.
 

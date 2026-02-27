@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: Sponsoring hack.lu 2025
-excerpt: "Sponsoring hack.lu 2025"
-modified: 2025-12-01T19:44:38.564948-04:00
+title: Sponsoring hack.lu 2026
+excerpt: "Sponsoring hack.lu 2026"
+modified: 2026-02-26T19:44:38.564948-04:00
 ---
 
-# Sponsoring hack.lu 2025 
+# Sponsoring hack.lu 2026 
 
 hack.lu offers a unique opportunity to reach users, organisations and teams working on information security, in SOCs, in CERTs, and also threat intelligence challenges. Through sponsoring the conference, you help the members of the information security community to work together, exchange idea, improve capabilities and improve the field.
 
@@ -23,18 +23,6 @@ Your sponsorship of the conference can also provide immediate, concrete benefits
 
 All sponsoring prices mentioned exclude VAT. VAT may apply depending on your country.
 
-### Additional Sponsoring Packages for the Cybersecurity Week Gala and Awards Night
-
-#### Cybersecurity Week Gala and Awards Nights - in addition to a hack.lu sponsoring package
-
-- Package content: chosen hack.lu sponsor package + CSWL Gala & Awards Night package. The sponsoring package is 2500 Euro in addition to the hack.lu sponsoring package.
-
-
-#### Cybersecurity Week Gala and Awards Nights - Only
-
-- Package content: logos on printed matters during the CSWL Gala & Awards Night (Thursday 23 OCT 2025), digital visibility accross all CSWL/CYBERSECURITY Luxembourg channels (cswl.lu, cybersecurity.lu, CyberAware Newsletter, social media), 6 free entrances to the CSWL Gala & Awards Night (23 October 2025). The sponsoring package is 5000 Euro.
-
-
 # Contact
 
 Contact us at info(AT)hack(DOT)lu if you want to sponsor [hack.lu](https://hack.lu)
@@ -44,21 +32,11 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 # Sponsors
 
 ## Sponsored by
-<a href="https://meco.gouvernement.lu/"><img src="/images/logos/mineco.png"></a> <br/> <br/>
-<a href="https://www.sans.org/emea"><img src="/images/logos/sans.png"></a> <br/> <br/>
-<a href="https://www.corelight.com/"><img src="/images/logos/corelight.png"></a> <br/> <br/>
-<a href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" width="40%" alt="Cargolux logo"/></a><br/><br/>
-<a href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png"></a> <br/> <br/>
-<a href="https://www.deloitte.lu/"><img src="/images/logos/deloitte2025.png" /></a><br /><br />
-<a href="https://www.pwc.lu/"> <img src="/images/logos/PwC_logo_rgb_colour_pos.png" /></a><br /><br />
-<a href="https://epsilon-sec.com/"><img src="/images/logos/epsilon_full_320_132.png"></a> <br/> <br/>
-
       
 ## Social Event Sponsor
 
 ## Student Ticket Sponsors
 
-<a href="https://gcve.eu/"><img src="/images/logos/gcve.png" width="75%" alt="GCVE Logo"></a> <br/> <br/>
 
 
 ## Partners
