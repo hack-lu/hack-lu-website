@@ -40,6 +40,8 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 <a href="https://www.corelight.com/"><img src="/images/logos/corelight.png"></a> <br/> <br/>
 <a href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" width="40%" alt="Cargolux logo"/></a><br/><br/>
 <a href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png"></a> <br/> <br/>
+<a href="https://commission.europa.eu/about/departments-and-executive-agencies/digital-services_en"><img src="/images/logos/digit.jpg" width="50%"></a><br /> <br />
+<a href="https://www.deloitte.lu/"><img src="/images/logos/deloitte2025.png" /></a><br /><br />
 <a href="https://www.pwc.lu/"> <img src="/images/logos/PwC_logo_rgb_colour_pos.png" /></a><br /><br />
       
 ## Social Event Sponsor
