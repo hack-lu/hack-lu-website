@@ -32,6 +32,15 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 # Sponsors
 
 ## Sponsored by
+
+## Sponsored by
+
+<a href="https://meco.gouvernement.lu/"><img src="/images/logos/mineco.png"></a> <br/> <br/>
+<a href="https://www.sans.org/emea"><img src="/images/logos/sans.png"></a> <br/> <br/>
+<a href="https://www.corelight.com/"><img src="/images/logos/corelight.png"></a> <br/> <br/>
+<a href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" width="40%" alt="Cargolux logo"/></a><br/><br/>
+<a href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png"></a> <br/> <br/>
+<a href="https://www.pwc.lu/"> <img src="/images/logos/PwC_logo_rgb_colour_pos.png" /></a><br /><br />
       
 ## Social Event Sponsor
 
