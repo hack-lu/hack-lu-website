@@ -145,6 +145,22 @@ a {
   color: $cyber-green;
 }
 
+/* Keep the embedded ticket shop legible against the site's dark theme. */
+.page__content pretix-widget,
+.page__content .pretix-widget {
+  color: #1d2926;
+  background-color: #fff;
+}
+
+.page__content .pretix-widget h1,
+.page__content .pretix-widget h2,
+.page__content .pretix-widget h3,
+.page__content .pretix-widget h4,
+.page__content .pretix-widget h5,
+.page__content .pretix-widget h6 {
+  color: #17352e;
+}
+
 /* Preserve the original colors and contrast of logos on the dark theme. */
 .supporters__section {
   margin-bottom: 2rem;
