@@ -161,6 +161,13 @@ a {
   color: #17352e;
 }
 
+/* Give the multi-track agenda more horizontal room than regular content pages. */
+.agenda-page #main {
+  @include breakpoint($x-large) {
+    max-width: calc(100% - 2em);
+  }
+}
+
 /* Preserve the original colors and contrast of logos on the dark theme. */
 .supporters__section {
   margin-bottom: 2rem;
