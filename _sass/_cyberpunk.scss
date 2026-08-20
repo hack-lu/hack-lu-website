@@ -1,0 +1,177 @@
+/* Cyberpunk accents inspired by the 2026 key art. */
+$cyber-ink: #071110;
+$cyber-panel: #0c1d1b;
+$cyber-green: #55f6b2;
+$cyber-cyan: #63e6ff;
+$cyber-magenta: #ff4aa2;
+
+html {
+  background: $cyber-ink;
+}
+
+body {
+  color: #c8ddd8;
+  background-color: $cyber-ink;
+  background-image:
+    linear-gradient(rgba(85, 246, 178, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(85, 246, 178, 0.025) 1px, transparent 1px),
+    radial-gradient(circle at 50% 0, #123b36 0, $cyber-ink 52%);
+  background-size: 32px 32px, 32px 32px, 100% 900px;
+}
+
+body::after {
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  pointer-events: none;
+  content: "";
+  opacity: 0.16;
+  background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(0, 0, 0, 0.22) 4px);
+}
+
+a {
+  color: $cyber-cyan;
+  text-decoration-color: rgba(99, 230, 255, 0.45);
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+
+  &:hover,
+  &:focus {
+    color: $cyber-green;
+    text-shadow: 0 0 10px rgba(85, 246, 178, 0.65);
+  }
+}
+
+.masthead {
+  border-bottom: 1px solid rgba(85, 246, 178, 0.6);
+  background: rgba(5, 18, 17, 0.96);
+  box-shadow: 0 0 18px rgba(85, 246, 178, 0.18);
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    color: #d7ece7;
+    font-family: "Courier New", Courier, monospace;
+    letter-spacing: 0.035em;
+  }
+
+  .site-title {
+    color: $cyber-green;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-shadow: 0 0 10px rgba(85, 246, 178, 0.45);
+  }
+
+  button {
+    color: $cyber-green;
+    background-color: $cyber-panel;
+  }
+
+  .hidden-links {
+    border: 1px solid rgba(85, 246, 178, 0.45);
+    background: #081513;
+  }
+}
+
+.visible-links a::before {
+  height: 2px;
+  background: linear-gradient(90deg, $cyber-green, $cyber-cyan);
+  box-shadow: 0 0 8px $cyber-green;
+}
+
+.page__hero--overlay {
+  min-height: 31vw;
+  border-bottom: 2px solid rgba(85, 246, 178, 0.65);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.75), 0 2px 14px rgba(85, 246, 178, 0.25);
+}
+
+.page__hero--overlay::after {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 35%;
+  content: "";
+  pointer-events: none;
+  background: linear-gradient(transparent, rgba(2, 14, 13, 0.7));
+}
+
+.archive__subtitle,
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: #e0f5ef;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0.04em;
+}
+
+.archive__subtitle {
+  position: relative;
+  padding: 0.55em 0.8em;
+  border: 1px solid rgba(85, 246, 178, 0.45);
+  border-left: 4px solid $cyber-green;
+  background: linear-gradient(90deg, rgba(85, 246, 178, 0.12), transparent 75%);
+  box-shadow: inset 8px 0 20px rgba(85, 246, 178, 0.05);
+
+  &::after {
+    float: right;
+    color: $cyber-magenta;
+    content: "//";
+    text-shadow: 0 0 8px rgba(255, 74, 162, 0.65);
+  }
+}
+
+.archive__item {
+  margin-bottom: 1.5em;
+  padding: 1.25em;
+  border: 1px solid rgba(99, 230, 255, 0.18);
+  background: linear-gradient(135deg, rgba(12, 29, 27, 0.94), rgba(7, 17, 16, 0.78));
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    border-color: rgba(85, 246, 178, 0.55);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.38), inset 3px 0 $cyber-green;
+    transform: translateY(-2px);
+  }
+}
+
+.archive__item-title a {
+  color: $cyber-green;
+}
+
+.page__footer {
+  color: #aac4be;
+  border-top: 1px solid rgba(85, 246, 178, 0.4);
+  background: #06110f;
+}
+
+code,
+kbd,
+pre,
+samp {
+  color: $cyber-green;
+  background: #05100e;
+}
+
+@media (max-width: 600px) {
+  .page__hero--overlay {
+    min-height: 54vw;
+  }
+
+  .archive__item {
+    padding: 0.9em;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  a,
+  .archive__item {
+    transition: none;
+  }
+}
