@@ -14,37 +14,42 @@ layout: splash
 
 {% include paginator.html %}
 
-<div>
-  <span style="width:40%; display:inline-block;">
+<div class="supporters">
+  <section class="supporters__section">
     <h3 class="archive__subtitle">Organized by</h3>
-    <a href="https://www.circl.lu/"><img src="{{ site.url }}/images/logos/circl.png" /></a>
-  </span>
-</div>
+    <div class="logo-wall logo-wall--organizer">
+      <a class="logo-card" href="https://www.circl.lu/"><img src="{{ site.url }}/images/logos/circl.png" alt="CIRCL" /></a>
+    </div>
+  </section>
 
-<div>
-  <span style="width:40%; display:inline-block;">
-
+  <section class="supporters__section">
       <h3 class="archive__subtitle"><a href="/sponsoring">Sponsored by</a></h3>
-
-        <a href="https://meco.gouvernement.lu/"><img src="/images/logos/mineco.png"></a> <br/> <br/>
-	<a href="https://www.sans.org/emea"><img src="/images/logos/sans.png"></a> <br/> <br/>
-	<a href="https://www.corelight.com/"><img src="/images/logos/corelight.png"></a> <br/> <br/>
-	<a href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" width="40%" alt="Cargolux logo"/></a><br/><br/>
-	<a href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png"></a> <br/> <br/>
-	<a href="https://commission.europa.eu/about/departments-and-executive-agencies/digital-services_en"><img src="/images/logos/digit.jpg" width="50%"></a><br /> <br />
-	<a href="https://www.deloitte.lu/"><img src="/images/logos/deloitte2025.png" /></a><br /><br />
-	<a href="https://www.pwc.lu/"><img src="/images/logos/PwC_logo_rgb_colour_pos.png" /></a><br /><br />
-	<a href="https://x41-dsec.de/"><img src="/images/logos/x41.png" /></a><br /><br />
-
+      <div class="logo-wall">
+        <a class="logo-card" href="https://meco.gouvernement.lu/"><img src="/images/logos/mineco.png" alt="Luxembourg Ministry of the Economy"></a>
+	<a class="logo-card" href="https://www.sans.org/emea"><img src="/images/logos/SANS.png" alt="SANS Institute"></a>
+	<a class="logo-card" href="https://www.corelight.com/"><img src="/images/logos/corelight.png" alt="Corelight"></a>
+	<a class="logo-card" href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" alt="Cargolux"></a>
+	<a class="logo-card" href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png" alt="Hacknowledge"></a>
+	<a class="logo-card" href="https://commission.europa.eu/about/departments-and-executive-agencies/digital-services_en"><img src="/images/logos/digit.jpg" alt="European Commission DG DIGIT"></a>
+	<a class="logo-card" href="https://www.deloitte.lu/"><img src="/images/logos/deloitte2025.png" alt="Deloitte"></a>
+	<a class="logo-card" href="https://www.pwc.lu/"><img src="/images/logos/PwC_logo_rgb_colour_pos.png" alt="PwC"></a>
+	<a class="logo-card" href="https://x41-dsec.de/"><img src="/images/logos/x41.png" alt="X41 D-Sec"></a>
+      </div>
       
       <h3 class="archive__subtitle"><a href="/sponsoring">Social Event Sponsor</a></h3>
 
       <h3 class="archive__subtitle"><a href="/sponsoring">Student Ticket Sponsors</a></h3>
 
       <h3 class="archive__subtitle"><a href="/sponsoring">Partners</a></h3>
-      <a href="https://fluxfingers.net"><img src="/images/logos/fluxfingers.png" width="75%" alt="Fluxfingers Logo"></a> <br/> <br/>
-      <a href="https://vulnopticon.org/"><img src="/images/logos/vulnopticon.png" width="80%" alt="VulnOptiCon"></a> <br/> <br/>
+      <div class="logo-wall">
+        <a class="logo-card" href="https://fluxfingers.net"><img src="/images/logos/fluxfingers.png" alt="Fluxfingers"></a>
+        <a class="logo-card" href="https://vulnopticon.org/"><img src="/images/logos/vulnopticon.png" alt="VulnOptiCon"></a>
+      </div>
       <h3 class="archive__subtitle"><a href="/sponsoring">Internet & Wi-Fi</a></h3>
-	  <a href="https://www.ruckusnetworks.com/"><img src="/images/logos/ruckus_belden.png"></a> <br/> <br/>
-      <a href="https://www.post.lu/"><img src="/images/logos/post.png"></a> <br/> <br/>
-      <a href="https://www.conostix.com/"><img src="/images/logos/conostix.png"></a> <br/> <br/>
+	  <div class="logo-wall">
+	    <a class="logo-card" href="https://www.ruckusnetworks.com/"><img src="/images/logos/ruckus_belden.png" alt="Ruckus Networks by CommScope"></a>
+        <a class="logo-card" href="https://www.post.lu/"><img src="/images/logos/post.png" alt="POST Luxembourg"></a>
+        <a class="logo-card" href="https://www.conostix.com/"><img src="/images/logos/conostix.png" alt="Conostix"></a>
+      </div>
+  </section>
+</div>

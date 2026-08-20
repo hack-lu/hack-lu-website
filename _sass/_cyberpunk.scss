@@ -145,6 +145,50 @@ a {
   color: $cyber-green;
 }
 
+/* Preserve the original colors and contrast of logos on the dark theme. */
+.supporters__section {
+  margin-bottom: 2rem;
+}
+
+.logo-wall {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.logo-wall--organizer {
+  max-width: 22rem;
+  grid-template-columns: 1fr;
+}
+
+.logo-card {
+  display: flex;
+  min-height: 9rem;
+  padding: 1.25rem;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(85, 246, 178, 0.28);
+  background: #fff;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.3);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover,
+  &:focus {
+    border-color: $cyber-green;
+    background: #fff;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.4), 0 0 12px rgba(85, 246, 178, 0.25);
+    transform: translateY(-2px);
+  }
+
+  img {
+    width: auto;
+    max-width: 100%;
+    max-height: 7rem;
+    object-fit: contain;
+  }
+}
+
 .page__footer {
   color: #aac4be;
   border-top: 1px solid rgba(85, 246, 178, 0.4);
@@ -167,11 +211,16 @@ samp {
   .archive__item {
     padding: 0.9em;
   }
+
+  .logo-wall {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
   a,
-  .archive__item {
+  .archive__item,
+  .logo-card {
     transition: none;
   }
 }
