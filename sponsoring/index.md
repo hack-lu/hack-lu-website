@@ -43,6 +43,8 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 <a href="https://commission.europa.eu/about/departments-and-executive-agencies/digital-services_en"><img src="/images/logos/digit.jpg" width="50%"></a><br /> <br />
 <a href="https://www.deloitte.lu/"><img src="/images/logos/deloitte2025.png" /></a><br /><br />
 <a href="https://www.pwc.lu/"> <img src="/images/logos/PwC_logo_rgb_colour_pos.png" /></a><br /><br />
+<a href="https://x41-dsec.de/"><img src="/images/logos/x41.png" /></a><br /><br />
+
       
 ## Social Event Sponsor
 
@@ -53,7 +55,7 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
 ## Partners
 
 <a href="https://fluxfingers.net/"><img src="/images/logos/fluxfingers.png" width="75%" alt="Fluxfingers Logo"></a> <br/> <br/>
-
+<a href="https://vulnopticon.org/"><img src="/images/logos/vulnopticon.png" width="80%" alt="VulnOptiCon"></a> <br/> <br/>
 
 ## Internet & Wi-Fi
 
