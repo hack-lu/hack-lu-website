@@ -2,6 +2,8 @@
 layout: splash
 title:  Agenda
 excerpt: "Agenda - Hack.lu 2026"
+classes:
+  - agenda-page
 ---
 
 # Agenda - Hack.lu 2026
