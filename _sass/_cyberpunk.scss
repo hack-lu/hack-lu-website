@@ -145,6 +145,11 @@ a {
   color: $cyber-green;
 }
 
+/* Keep post metadata, including the estimated reading time, visible on dark cards. */
+.page__meta {
+  color: #a9c7c0;
+}
+
 /* Keep the embedded ticket shop legible against the site's dark theme. */
 .page__content pretix-widget,
 .page__content .pretix-widget {
