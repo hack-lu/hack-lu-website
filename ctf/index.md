@@ -4,15 +4,15 @@ classes:
   - splash
   - dark-theme
 title:  Capture The Flag
-excerpt: "Capture The Flag by FluxFingers - Hack.lu 2025"
-modified: 2025-07-16T10:17:47.723764+02:00
+excerpt: "Capture The Flag by FluxFingers - Hack.lu 2026"
+modified: 2026-08-26T10:17:47.723764+02:00
 header:
   overlay_image: /images/flux.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**adulau**](https://www.flickr.com/photos/adulau)"
 ---
 
-The 2025's CTF will at hack.lu again be held by [FluxFingers](https://fluxfingers.net/), the CTF Team of
+The 2026's CTF will at hack.lu again be held by [FluxFingers](https://fluxfingers.net/), the CTF Team of
 Ruhr-Universität Bochum (Germany).
 
 ![FluxFingers logo](/images/logos/fluxfingers.png)
@@ -21,14 +21,14 @@ Ruhr-Universität Bochum (Germany).
 
 Everyone may participate remotely at [flu.xxx](https://flu.xxx/).
 
-For updates concerning the CTF follow [@fluxfingers](https://twitter.com/fluxfingers) on X/Twitter or [@fluxfingers.net](https://bsky.app/profile/fluxfingers.net) on Bluesky.
+For updates concerning the CTF follow [@fluxfingers](https://twitter.com/fluxfingers) on X/Twitter or [@fluxfingers@infosec.exchange](https://infosec.exchange/@fluxfingers) on Mastodon.
 
 # When
 
-- Fri, 17 Oct 2025 starting at 18:00 UTC (for 48h).
+- Fri, 23 Oct 2026 starting at 18:00 UTC (for 48h).
 
-The Capture The Flag (CTF) competition is held prior to the conference, enabling participants to fully enjoy both the conference and its talks.
+This year, the Capture The Flag (CTF) competition is held **after** the conference, enabling participants to fully enjoy both the conference and its talks.
 
-# During the hack.lu 2025 event
+# During the hack.lu 2026 event
 
 Several on‑site CTF events and other challenges will be held during the conference and will be open to all participants.
