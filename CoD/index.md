@@ -103,7 +103,7 @@ Hack.lu’s official photographers will be present during the event and will do 
 
 Hack.lu reserves the right to publish pictures of the current and past event on the following platforms:
 
-On our social media feeds (Twitter, Youtube).
+On our social media feeds (Mastodon, Youtube, Linkedin).
 On our Website (hack.lu).
 In promotional materials about the event (event presentation slides, sponsorship packages).
 It is not possible to always correctly identify specific individuals in a large crowd when on-site. However, anyone appearing in a photograph published by Hack.lu, who does not wish to be, can make a request to be made unidentifiable by writing to info@hack.lu.
