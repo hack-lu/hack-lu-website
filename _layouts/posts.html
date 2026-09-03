@@ -2,6 +2,13 @@
 layout: archive
 ---
 
+{% if page.date %}
+  <p class="page__meta">
+    <i class="far fa-calendar-alt" aria-hidden="true"></i>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+  </p>
+{% endif %}
+
 {{ content }}
 
 <ul class="taxonomy__index">
