@@ -24,10 +24,18 @@ modified: 2026-02-26T19:44:38.564948-04:00
 
 The conference will be held as every year in Luxembourg, a small country between France, Belgium and Germany. The conference venue is the Parc Hotel in Luxembourg-Dommeldange, like in the previous years.
 
-We've negotiated a special rate with the hotel the conference takes place. You can benefit from the special rate if you reserve your room through [Parc Hotel's registration form](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) and mentioning the promotional code 'HACKLU-2026'. Please make sure to **register your hotel room before September 10th, 2026** in order to be able to benefit from the proposal or to ensure that you will have a room. The contingent of reserverd rooms will be released afterwards by the hotel for general use.
+The Parc Hotel is booked out! No more rooms available! Please read on below for alternatives.
 
-By clicking on the [reservation link](https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg) you will arrive directly on the booking page.
-The guests have please to fill in the arrival and departure date and the special discount code. And click on « Show Availability », without the date and code, your special rates will not be visible!
+~~We've negotiated a special rate with the hotel the conference takes place. You can benefit from the special rate if you reserve your room through Parc Hotel's registration form and mentioning the promotional code 'HACKLU-2026'. Please make sure to **register your hotel room before September 10th, 2026** in order to be able to benefit from the proposal or to ensure that you will have a room. The contingent of reserverd rooms will be released afterwards by the hotel for general use.~~
+
+~~By clicking on the reservation link you will arrive directly on the booking page.
+The guests have please to fill in the arrival and departure date and the special discount code. And click on « Show Availability », without the date and code, your special rates will not be visible!~~
+
+We're partnering with the Hilton Hotel Luxembourg, which is close by. 
+
+The following code can be used to apply a 20% discount: GPREFA at [Hilton's Booking System](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=LXMHIDI&arrivalDate=2026-10-19&departureDate=2026-10-23&room1NumAdults=1&displayCurrency=EUR&aarpRate=)
+
+ 
 
 ### Address of the Venue
 
