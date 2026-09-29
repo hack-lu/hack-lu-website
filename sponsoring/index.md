@@ -40,7 +40,7 @@ We are open to any specific partnership proposals as well. Do not hesitate to ge
   <a class="logo-card" href="https://www.sans.org/emea"><img src="/images/logos/SANS.png" alt="SANS Institute"></a>
   <a class="logo-card" href="https://www.corelight.com/"><img src="/images/logos/corelight.png" alt="Corelight"></a>
   <a class="logo-card" href="https://cargolux.lu/"><img src="/images/logos/cargolux_tagline.png" alt="Cargolux"></a>
-  <a class="logo-card" href="https://hacknowledge.com/"><img src="/images/logos/hacknowledge.png" alt="Hacknowledge"></a>
+  <a class="logo-card" href="https://www.swisspost-cybersecurity.ch/"><img src="/images/logos/SwissPost.png" alt="Swiss Post Cybersecurity"></a>
   <a class="logo-card" href="https://commission.europa.eu/about/departments-and-executive-agencies/digital-services_en"><img src="/images/logos/digit.jpg" alt="European Commission DG DIGIT"></a>
   <a class="logo-card" href="https://www.deloitte.lu/"><img src="/images/logos/deloitte2025.png" alt="Deloitte"></a>
   <a class="logo-card" href="https://www.pwc.lu/"><img src="/images/logos/PwC_logo_rgb_colour_pos.png" alt="PwC"></a>
