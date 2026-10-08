@@ -12,6 +12,8 @@ main:
     url: /CoD/
   - title: "CTF"
     url: /ctf/
+  - title: "Artwork"
+    url: /artwork/
   - title: "2025"
     url: https://2025.hack.lu/
   - title: "archive"
