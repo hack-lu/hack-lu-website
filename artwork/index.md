@@ -14,7 +14,7 @@ This artwork was created by the hack.lu team and [Marie Foucaud at Apikcréa](ht
 
 All artwork on this page is shared under **Creative Commons Attribution-ShareAlike (CC-BY-SA)**. You may share and adapt it: credit the hack.lu team and Marie Foucaud at Apikcréa, link to the license, indicate any changes you make, and share adaptations under the same license. See the [Creative Commons explanation of Attribution-ShareAlike](https://creativecommons.org/share-your-work/cclicenses/) for more information.
 
-Suggested credit:
+Credit:
 
 > hack.lu 2026 artwork by the hack.lu team and [Marie Foucaud / Apikcréa](https://www.apikcrea.fr/), shared under CC-BY-SA.
 
